@@ -28,6 +28,7 @@ const styles = StyleSheet.create ({
         width: 200,
         height: 40,
         backgroundColor: '#FF0000',
+        justifyContent: "center",
         alignItems: "center",
     },
     textoBotao: {
